@@ -1,0 +1,3 @@
+primary_type	title	URI	authority_id LOC Links	Viaf	Wikipedia	Other sources 	source	rules	Cached Total records	Custom Formula LOC Search URL	Notes
+agent_family	Archilla Family	/agents/families/7					local	DACS	0	https://authorities.loc.gov/search-results?searchFields=name&searchType=begins&searchTerm=Archilla%20Family&limit=100&sortBy=relevance	
+agent_family	Doval Family	/agents/families/8					local	DACS	0	https://authorities.loc.gov/search-results?searchFields=name&searchType=begins&searchTerm=Doval%20Family&limit=100&sortBy=relevance	
